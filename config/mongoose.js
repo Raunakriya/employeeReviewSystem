@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 // connect from mongodb
  //mongoose.connect('mongodb://localhost:27017/EmployeeReviewSystem');
 
-mongoose.connect('mongodb+srv://Raunak:Raunak@cluster0.jk8pjux.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect('mongodb+srv://Raunak:Raunak@cluster0.jk8pjux.mongodb.net/EmployeeReviewSystem?retryWrites=true&w=majority')
 // aquire connection if it is succesful
 const db = mongoose.connection;
 
