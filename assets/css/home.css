@@ -1,5 +1,5 @@
 .text-colr{
-    color: rgb(0, 120, 175);
+    color: orchid;
 }
 .small-text{
     margin-top: -100px;
@@ -18,7 +18,7 @@
     text-align: center;
 }
 .cls-txt{
-    color: rgb(255, 0, 119);
+    color: green;
 }
 .admin-pass{
     margin-top: 5px;
@@ -31,7 +31,7 @@
 }
 .admin-pass > form > input{
    outline: none;
-   border:1px solid rgb(36, 35, 90);
+   border:1px solid orchid;
   border-radius: 7px;
 }
 .card-out{
@@ -47,7 +47,7 @@
     height: fit-content;
     min-height: 140px;
     padding: 5px;
-    border: 1px solid rgb(0, 120, 175);
+    border: 1px solid orchid;
     border-radius: 10px;
 }
 

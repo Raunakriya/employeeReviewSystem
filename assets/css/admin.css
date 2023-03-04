@@ -1,12 +1,12 @@
 .text-colr{
-    color: rgb(4, 71, 102);
+    color: orchid;
 }
 .btn-bg{
-    background-color: rgb(4, 71, 102);
+    background-color: orchid;
     color: #fff;
 }
 .btn-bg:hover{
     background-color: transparent;
-    color: rgb(4, 71, 102);
-    border: 1px solid rgb(4, 71, 102);
+    color: orchid;
+    border: 1px solid orchid;
 }
