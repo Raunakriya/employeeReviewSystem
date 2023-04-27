@@ -56,7 +56,7 @@ app.use(session({
         maxAge: (1000 * 60 * 100)
     },
     store: MongoStore.create({
-        mongoUrl: 'mongodb://localhost:27017/EmployeeReviewSystem',
+        mongoUrl: 'mongodb+srv://raunakriya:raunakcluster@cluster0.klgs2a1.mongodb.net/?retryWrites=true&w=majority',
         autoRemove: 'disabled'
     },
         (err) => {
